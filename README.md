@@ -9,4 +9,4 @@ My experience spans developing **AI-based prototypes**, teaching **robotics and 
 🎓 I hold a **Bachelor of Science in Electronic Engineering** from the **Pontifical Catholic University of Peru**  
 🌱 Currently exploring **AI Agents**, **Generative AI**, and **Human-Robot Interaction**  
 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/carlos-granados-ybarra/) · carlos.granados@pucp.edu.pe  
-⚡ Fun fact: I believe technology is most powerful when it helps people grow, learn, and connect  
+⚡ I believe technology is most powerful when it helps people grow, learn, and connect  
